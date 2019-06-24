@@ -104,7 +104,7 @@
 	}
 .txt{
 		float: left;
-		background: url(../img/txt-bj.png) no-repeat;
+		background: url(txt-bj.png) no-repeat;
 		width: 174px;
 		height: 33px;
 		border: none;
@@ -114,7 +114,7 @@
 }
 .btn{
 	float: left;
-	background: url(../img/baidu-logo.png);
+	background: url(baidu-logo.png);
 	width: 89px;
 	height: 33px;
 	margin: 0.53125rem 5% 0.53125rem 0px;
